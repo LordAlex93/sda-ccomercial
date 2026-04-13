@@ -12,9 +12,9 @@ Este proyecto está preparado para publicarse con GitHub Pages desde la carpeta 
 
 ## Autoría
 
-Alejandro Muñoz Azaustre
+Alejandro Muñoz Azaustre: https://lordalex93.github.io/sda-ccomercial/
 
-Carolina Sánchez Rodríguez
+Carolina Sánchez Rodríguez: https://caroosaanchezz.github.io/sda-ccomercial/
 
 ## Licencia
 
