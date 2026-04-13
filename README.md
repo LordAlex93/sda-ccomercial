@@ -1,4 +1,4 @@
-# sda-ccomercial
+# Situación de Aprendizaje - Construye tu centro comercial
 
 Situación de aprendizaje desarrollada con eXeLearning sobre la proporcionalidad y el porcentaje, contextualizada en un centro comercial para 2º de ESO.
 
